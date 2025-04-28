@@ -1,3 +1,8 @@
-2025/04/24-00:16:55.940 4db8 Recovering log #61
-2025/04/24-00:16:55.953 4db8 Delete type=0 #61
-2025/04/24-00:16:55.953 4db8 Delete type=3 #60
+2025/04/28-19:07:12.346 4518 Recovering log #99
+2025/04/28-19:07:12.358 4518 Delete type=0 #99
+2025/04/28-19:07:12.358 4518 Delete type=3 #98
+2025/04/28-19:10:46.257 fb4 Level-0 table #103: started
+2025/04/28-19:10:46.257 fb4 Level-0 table #103: 0 bytes OK
+2025/04/28-19:10:46.262 fb4 Delete type=0 #101
+2025/04/28-19:10:46.262 fb4 Manual compaction at level-0 from '!actors!45ipDbJH5j8yKLKr' @ 72057594037927935 : 1 .. '!actors.items!l8Dwe47UFnTpe0HH.GAMcHj9DkKvN9zfc' @ 0 : 0; will stop at (end)
+2025/04/28-19:10:46.262 fb4 Manual compaction at level-1 from '!actors!45ipDbJH5j8yKLKr' @ 72057594037927935 : 1 .. '!actors.items!l8Dwe47UFnTpe0HH.GAMcHj9DkKvN9zfc' @ 0 : 0; will stop at (end)

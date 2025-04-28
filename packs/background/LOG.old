@@ -1,3 +1,8 @@
-2025/04/24-00:16:55.746 4db8 Recovering log #991
-2025/04/24-00:16:55.757 4db8 Delete type=0 #991
-2025/04/24-00:16:55.757 4db8 Delete type=3 #990
+2025/04/28-19:07:11.971 4518 Recovering log #1029
+2025/04/28-19:07:11.981 4518 Delete type=0 #1029
+2025/04/28-19:07:11.981 4518 Delete type=3 #1028
+2025/04/28-19:10:46.168 fb4 Level-0 table #1033: started
+2025/04/28-19:10:46.168 fb4 Level-0 table #1033: 0 bytes OK
+2025/04/28-19:10:46.173 fb4 Delete type=0 #1031
+2025/04/28-19:10:46.187 fb4 Manual compaction at level-0 from '!folders!4zrGNhaArLf1OxAw' @ 72057594037927935 : 1 .. '!items!zYcbW18NHzgYoG4z' @ 0 : 0; will stop at (end)
+2025/04/28-19:10:46.187 fb4 Manual compaction at level-1 from '!folders!4zrGNhaArLf1OxAw' @ 72057594037927935 : 1 .. '!items!zYcbW18NHzgYoG4z' @ 0 : 0; will stop at (end)
