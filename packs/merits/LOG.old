@@ -1,8 +1,3 @@
-2025/04/28-19:07:12.068 25f4 Recovering log #1036
-2025/04/28-19:07:12.078 25f4 Delete type=0 #1036
-2025/04/28-19:07:12.079 25f4 Delete type=3 #1035
-2025/04/28-19:10:46.206 fb4 Level-0 table #1040: started
-2025/04/28-19:10:46.206 fb4 Level-0 table #1040: 0 bytes OK
-2025/04/28-19:10:46.211 fb4 Delete type=0 #1038
-2025/04/28-19:10:46.216 fb4 Manual compaction at level-0 from '!folders!0F0QxORMjsnqBPym' @ 72057594037927935 : 1 .. '!items!zpbEFwfxSNoQZyLN' @ 0 : 0; will stop at (end)
-2025/04/28-19:10:46.216 fb4 Manual compaction at level-1 from '!folders!0F0QxORMjsnqBPym' @ 72057594037927935 : 1 .. '!items!zpbEFwfxSNoQZyLN' @ 0 : 0; will stop at (end)
+2025/04/28-19:22:41.398 4518 Recovering log #1039
+2025/04/28-19:22:41.410 4518 Delete type=0 #1039
+2025/04/28-19:22:41.410 4518 Delete type=3 #1037
