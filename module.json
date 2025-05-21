@@ -151,6 +151,17 @@
       "label": "Animals",
       "path": "packs/animals",
       "type": "Actor",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rollable-tables",
+      "label": "Rollable Tables",
+      "path": "packs/rollable-tables",
+      "type": "RollTable",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
