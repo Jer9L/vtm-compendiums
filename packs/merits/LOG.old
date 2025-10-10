@@ -1,8 +1,3 @@
-2025/09/08-12:31:01.553 5de0 Recovering log #2451
-2025/09/08-12:31:01.566 5de0 Delete type=0 #2451
-2025/09/08-12:31:01.566 5de0 Delete type=3 #2449
-2025/09/08-17:18:50.465 5b28 Level-0 table #2456: started
-2025/09/08-17:18:50.465 5b28 Level-0 table #2456: 0 bytes OK
-2025/09/08-17:18:50.470 5b28 Delete type=0 #2454
-2025/09/08-17:18:50.500 5b28 Manual compaction at level-0 from '!folders!0F0QxORMjsnqBPym' @ 72057594037927935 : 1 .. '!items!zpbEFwfxSNoQZyLN' @ 0 : 0; will stop at (end)
-2025/09/08-17:18:50.500 5b28 Manual compaction at level-1 from '!folders!0F0QxORMjsnqBPym' @ 72057594037927935 : 1 .. '!items!zpbEFwfxSNoQZyLN' @ 0 : 0; will stop at (end)
+2025/10/10-04:46:44.857 759c Recovering log #2747
+2025/10/10-04:46:44.869 759c Delete type=0 #2747
+2025/10/10-04:46:44.869 759c Delete type=3 #2745
