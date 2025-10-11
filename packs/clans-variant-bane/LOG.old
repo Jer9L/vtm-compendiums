@@ -1,3 +1,8 @@
-2025/10/10-04:46:45.066 4a0c Recovering log #1998
-2025/10/10-04:46:45.084 4a0c Delete type=0 #1998
-2025/10/10-04:46:45.084 4a0c Delete type=3 #1996
+2025/10/11-01:11:05.209 33c0 Recovering log #2007
+2025/10/11-01:11:05.224 33c0 Delete type=0 #2007
+2025/10/11-01:11:05.224 33c0 Delete type=3 #2006
+2025/10/11-02:43:35.442 ea8 Level-0 table #2011: started
+2025/10/11-02:43:35.442 ea8 Level-0 table #2011: 0 bytes OK
+2025/10/11-02:43:35.448 ea8 Delete type=0 #2009
+2025/10/11-02:43:35.459 ea8 Manual compaction at level-0 from '!items!03UbpBXUHzztH2fh' @ 72057594037927935 : 1 .. '!items!spXgeOV3WR6MGYZM' @ 0 : 0; will stop at (end)
+2025/10/11-02:43:35.459 ea8 Manual compaction at level-1 from '!items!03UbpBXUHzztH2fh' @ 72057594037927935 : 1 .. '!items!spXgeOV3WR6MGYZM' @ 0 : 0; will stop at (end)
