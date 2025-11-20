@@ -1,7 +1,7 @@
 {
   "id": "vtm-compendiums",
   "title": "Vtm Compendiums",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -19,7 +19,7 @@
       "label": "Backgrounds",
       "path": "packs/background",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -30,7 +30,7 @@
       "label": "Clans",
       "path": "packs/clan",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -41,7 +41,7 @@
       "label": "Disciplines",
       "path": "packs/discipline",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -52,7 +52,7 @@
       "label": "Merits",
       "path": "packs/merits",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -63,7 +63,7 @@
       "label": "Predator Types",
       "path": "packs/predator-types",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -74,7 +74,7 @@
       "label": "Loresheets",
       "path": "packs/loresheets",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -85,7 +85,7 @@
       "label": "Domain Merits",
       "path": "packs/domain-merits",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -96,7 +96,7 @@
       "label": "Resonance",
       "path": "packs/resonance",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -107,7 +107,7 @@
       "label": "Elder Powers",
       "path": "packs/elder-powers",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -118,7 +118,7 @@
       "label": "Methuselah Powers",
       "path": "packs/methuselah-powers",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -129,7 +129,7 @@
       "label": "Clans Variant Bane",
       "path": "packs/clans-variant-bane",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -140,7 +140,7 @@
       "label": "Conditions",
       "path": "packs/conditions",
       "type": "Item",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -151,7 +151,7 @@
       "label": "Animals",
       "path": "packs/animals",
       "type": "Actor",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -162,7 +162,7 @@
       "label": "Rollable Tables",
       "path": "packs/rollable-tables",
       "type": "RollTable",
-      "system": "vtm5e",
+      "system": "wod5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
